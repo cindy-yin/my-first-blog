@@ -25,7 +25,7 @@ SECRET_KEY = 'aicass+mokw5_gii^32y76!wttk9rq+pg=8(m%-w11%@u)7zkb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<ladycoding.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','ladycoding.pythonanywhere.com']
 
 
 # Application definition
